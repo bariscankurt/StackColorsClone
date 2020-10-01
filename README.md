@@ -4,4 +4,4 @@ This is a clone of Stack Colors game. From start to end i wrote every single lin
 
 Unity version 2019.4.11f1 LTS
 
-You can find detailed explanation in scripts. I tried to explain everything that i did inside the scripts with comment lines.
+You can find detailed explanation in scripts. I tried to explain everything that i did inside scripts with comment lines.
